@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @preethamdandu
 - 👀 I’m interested in programming,learning new skills
 - 🌱 I’m currently learning python,reactjs
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on good companies
 - 📫 How to reach me preethamdandu8@gmail.com
 
 <!---
