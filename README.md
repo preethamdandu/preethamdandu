@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi there, I'm Preetham Dandu 👋</h1>
+<h1 align="center">Hi there, I'm Preetham 👋</h1>
 
 <p align="center">
   <em>A passionate and results-driven Computer Science graduate student at Stony Brook University with a passion for developing scalable, high-performance applications. I have a strong foundation in full-stack development, cloud computing, and machine learning, with a proven ability to deliver robust software solutions.</em>
