@@ -27,14 +27,13 @@ I'm a Computer Science Master's student at **Stony Brook University**, driven to
 
 ---
 
-### 🚀 My Contributions & Activity
+## 🚀 My Contributions & Activity
 
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=preethamdandu&theme=tokyo-night" alt="My 3D Contribution Graph"/>
 </p>
 
 ---
-
 <details>
   <summary><b>▶ Click to see My Tech Stack & GitHub Stats</b></summary>
   <br/>
