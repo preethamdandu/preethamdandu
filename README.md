@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=I'm+Preetham+Dandu;A+CS+Master's+Student+%40+Stony+Brook;A+Machine+Learning+%26+3D+Vision+Researcher;An+Aspiring+Quantitative+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Preetham+Dandu;CS+Masters+Student+%40+Stony+Brook;Machine+Learning+%26+3D+Vision+Researcher;Aspiring+Quantitative+Developer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -31,13 +31,12 @@ I'm a Computer Science Master's student at **Stony Brook University**, driven to
 
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=preethamdandu&theme=tokyo-night" alt="My 3D Contribution Graph"/>
-  
-  </p>
+</p>
 
 ---
 
 <details>
-  <summary><b>Click to see My Tech Stack & GitHub Stats</b></summary>
+  <summary><b>▶ Click to see My Tech Stack & GitHub Stats</b></summary>
   
   ### 💻 My Tech Stack
   <p align="center">
