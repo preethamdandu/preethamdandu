@@ -4,7 +4,7 @@
 
 <h1 align="center">
   Hi there! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h1>
 
 <h3 align="center">
@@ -12,8 +12,8 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:preethamdandu8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:preethamdandu8@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -37,6 +37,7 @@ I'm a Computer Science Master's student at **Stony Brook University**, driven to
 
 <details>
   <summary><b>▶ Click to see My Tech Stack & GitHub Stats</b></summary>
+  <br/>
   
   ### 💻 My Tech Stack
   <p align="center">
@@ -56,9 +57,6 @@ I'm a Computer Science Master's student at **Stony Brook University**, driven to
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808b6145041530756a1523c8a4c0753556/assets/images/footer_header.svg" />
-</p>
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40" height="40"/>
 </p>
