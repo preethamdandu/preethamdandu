@@ -27,13 +27,14 @@ I'm a Computer Science Master's student at **Stony Brook University**, driven to
 
 ---
 
-## 🚀 My Contributions & Activity
+### 🚀 My Contributions & Activity
 
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=preethamdandu&theme=tokyo-night" alt="My 3D Contribution Graph"/>
 </p>
 
 ---
+
 <details>
   <summary><b>▶ Click to see My Tech Stack & GitHub Stats</b></summary>
   <br/>
@@ -43,7 +44,7 @@ I'm a Computer Science Master's student at **Stony Brook University**, driven to
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-    </p>
+  </p>
   
   ### 📊 My GitHub Stats
   <p align="center">
