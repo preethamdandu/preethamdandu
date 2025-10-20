@@ -10,7 +10,7 @@ preethamdandu/preethamdandu is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!--
 <h1 align="center">Hi there, I'm Preetham 👋</h1>
 
 <p align="center">
@@ -64,3 +64,68 @@ You can click the Preview link to take a look at your changes.
   <a href="mailto:preethamdandu8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/preetham-dandu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+--->
+
+
+<h1 align="center">Hi 👋, I'm Preetham Dandu</h1>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=550&lines=CS+Master's+Student+%40+Stony+Brook+University;3D+Object+Detection+Researcher;Aspiring+Quantitative+Developer;AI+Enthusiast" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  <a href="mailto:preethamdandu8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### About Me
+I'm a Computer Science Master's student at **Stony Brook University** with a passion for solving complex problems. My academic and personal projects are focused on the exciting intersection of **3D Computer Vision**, **Quantitative Finance**, and **Cloud-Native Applications**. I'm driven by the challenge of building efficient, scalable, and intelligent systems.
+
+- 🎓 Pursuing my **Master's in Computer Science** (Expected Graduation: [Your Date])
+- 🔭 My current research explores **3D object detection from point clouds**.
+- 🌱 I'm actively seeking **Software Development** and **Quant** roles where I can leverage my skills in algorithms and machine learning.
+- 👨‍💻 I love tackling LeetCode problems to sharpen my problem-solving abilities.
+
+---
+
+### 💻 My Tech Stack
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /><br>
+      <sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /><br>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" /><br>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 My GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=preethamdandu&show_icons=true&theme=dracula" alt="preethamdandu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethamdandu&layout=compact&theme=dracula" alt="preethamdandu's top languages" />
+</p>
+
+---
