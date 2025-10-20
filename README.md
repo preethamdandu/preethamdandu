@@ -27,30 +27,24 @@ I'm a Computer Science Master's student at **Stony Brook University**, driven to
 
 ---
 
-### 🚀 My Contributions & Activity
+### 📊 My GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=preethamdandu&theme=tokyo-night" alt="My 3D Contribution Graph"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=preethamdandu&show_icons=true&locale=en&theme=tokyonight" alt="preethamdandu's GitHub stats" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=preethamdandu&layout=compact&langs_count=8&theme=tokyonight" alt="preethamdandu's top languages" />
 </p>
 
 ---
 
 <details>
-  <summary><b>▶ Click to see My Tech Stack & GitHub Stats</b></summary>
+  <summary><b>▶ Click to see My Tech Stack</b></summary>
   <br/>
   
-  ### 💻 My Tech Stack
   <p align="center">
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-  </p>
-  
-  ### 📊 My GitHub Stats
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=preethamdandu&show_icons=true&locale=en&theme=tokyonight" alt="preethamdandu's GitHub stats" />
-    <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=preethamdandu&layout=compact&langs_count=8&theme=tokyonight" alt="preethamdandu's top languages" />
   </p>
 
 </details>
