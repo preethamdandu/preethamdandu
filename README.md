@@ -22,7 +22,7 @@
 I'm a Computer Science Master's student at **Stony Brook University**, driven to build intelligent, data-driven systems that solve real-world problems. My core passion lies at the intersection of **3D Computer Vision** and **Quantitative Finance**, where complex algorithms can uncover hidden market insights. I thrive on architecting full-stack solutions, from scalable cloud infrastructure to interactive user interfaces.
 
 - 🎓 **Education:** Master's in Computer Science, Stony Brook University (Expected December 2025)
-- 🔭 **Current Focus:** 3D Object Detection, Algorithmic Trading Strategies, and Cloud-Native Fintech Platforms.
+- 🔭 **Current Focus:** Software Engineer ,3D Object Detection, Algorithmic Trading Strategies, and Cloud-Native Fintech Platforms.
 - 🌱 **Goal:** Seeking challenging **Software Engineer** or **Quantitative Analyst** roles where I can contribute to building robust and innovative products.
 
 ---
