@@ -32,12 +32,13 @@ I am a Computer Science Master's Graduate from **Stony Brook University** (Dec 2
 
 ### 📊 My GitHub Stats & Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preethamdandu&show_icons=true&locale=en&theme=tokyonight" alt="Preetham's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=preethamdandu&layout=compact&langs_count=8&theme=tokyonight" alt="Preetham's top languages" />
-</p>
+<div align="center">
+
+[![Preetham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preethamdandu&show_icons=true&theme=tokyonight)](https://github.com/preethamdandu)
+
+[![Preetham's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=preethamdandu&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/preethamdandu)
+
+</div>
 
 ---
 
