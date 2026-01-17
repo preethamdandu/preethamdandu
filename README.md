@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=preethamdandu)
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=preethamdandu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
-</p>
+</div>
 
 <h1 align="center">
   Hi there! 
@@ -20,8 +20,10 @@
 
 ---
 
-### About Me
-I am a Computer Science Master's Graduate from **Stony Brook University** (Dec 2025), driven to build intelligent, data-driven systems. My core passion lies at the intersection of **Quantitative Finance** and **High-Performance Computing**. I am currently building **QuantView**, a quantitative trading platform, and am actively seeking full-time roles where I can apply my C++ and Python skills to real-world financial challenges.
+### 👨‍💻 About Me
+I am a Computer Science Master's Graduate from **Stony Brook University** (Dec 2025), driven to build intelligent, data-driven systems. My core passion lies at the intersection of **Quantitative Finance** and **High-Performance Computing**. 
+
+I am currently building **QuantView**, a quantitative trading platform, and am actively seeking full-time roles where I can apply my C++ and Python skills to real-world financial challenges.
 
 - 🎓 **Education:** Master's in Computer Science, Stony Brook University (Graduated Dec 2025)
 - 🔭 **Current Focus:** Quantitative Development, C++ Trading Infrastructure, and Algorithmic Strategies.
@@ -30,28 +32,15 @@ I am a Computer Science Master's Graduate from **Stony Brook University** (Dec 2
 
 ---
 
-### 📊 My GitHub Stats
+### 🛠 Technical Skills
 
 <div align="center">
 
-[![Preetham's GitHub Stats](https://streak-stats.demolab.com?user=preethamdandu&theme=tokyonight)](https://github.com/preethamdandu)
+| **Languages** | **Machine Learning** | **Web & Tools** |
+|:---:|:---:|:---:|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 </div>
-
----
-
-<details>
-  <summary><b>▶ Click to see My Tech Stack</b></summary>
-  <br/>
-  
-  <p align="center">
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-  </p>
-
-</details>
 
 ---
 
