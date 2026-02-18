@@ -21,12 +21,12 @@
 ---
 
 ### 👨‍💻 About Me
-I am a Computer Science Master's Graduate from **Stony Brook University** (Dec 2025), driven to build intelligent, data-driven systems. My core passion lies at the intersection of **Quantitative Finance** and **High-Performance Computing**. 
+I am a Computer Science Master's Graduate from **Stony Brook University** (Dec 2025), driven to build intelligent, data-driven systems. My core passion lies at the intersection of **Software Engineering**, **AI/ML Researcher** and **Quantitative Finance**. 
 
 I am currently building **QuantView**, a quantitative trading platform, and am actively seeking full-time roles where I can apply my C++ and Python skills to real-world financial challenges.
 
 - 🎓 **Education:** Master's in Computer Science, Stony Brook University (Graduated Dec 2025)
-- 🔭 **Current Focus:** Quantitative Development, C++ Trading Infrastructure, and Algorithmic Strategies.
+- 🔭 **Current Focus:** Software Engineering, AI/ML Research, Quantitative Development, C++ Trading Infrastructure, and Algorithmic Strategies.
 - 💡 **Project:** Building **QuantView**, a comprehensive trading platform.
 - 🌱 **Goal:** Seeking challenging **Software Engineer** or **Quantitative Developer** roles.
 
