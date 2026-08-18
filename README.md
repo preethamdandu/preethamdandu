@@ -26,9 +26,9 @@ I am a Computer Science Master's Graduate from **Stony Brook University** (Dec 2
 I am currently building **QuantView**, a quantitative trading platform, and am actively seeking full-time roles where I can apply my Python and C++ skills to real-world challenges.
 
 - 🎓 **Education:** Master's in Computer Science, Stony Brook University (Graduated Dec 2025)
-- 🔭 **Current Focus:** Software Engineering, AI/ML Research, Quantitative Development, C++ Trading Infrastructure, and Algorithmic Strategies.
+- 🔭 **Current Focus:** Software Engineering, AI/ML Research, Quantitative Research, and Distributed and Backend Systems.
 - 💡 **Project:** Building **QuantView**, a comprehensive trading platform.
-- 🌱 **Goal:** Seeking challenging **Software Engineer**, **AI/ML** or **Quantitative Developer** roles.
+- 🌱 **Goal:** Seeking challenging **Software Engineer**, **AI/ML** or **Quantitative Reserach** roles.
 
 ---
 
